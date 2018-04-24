@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>f:\facultate\sem 2\oop\lablab6\lab6\lab6\</FILEPATH>
+      <FILENAME>teste.cpp</FILENAME>
+      <LINE>40</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'v' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '31' of 'f:\facultate\sem 2\oop\lablab6\lab6\lab6\teste.cpp'.</DESCRIPTION>
+    <FUNCTION>Teste::testModify</FUNCTION>
+    <DECORATED>?testModify@Teste@@QAEXXZ</DECORATED>
+    <FUNCLINE>25</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>f:\facultate\sem 2\oop\lablab6\lab6\lab6\</FILEPATH>
+        <FILENAME>teste.cpp</FILENAME>
+        <LINE>31</LINE>
+        <COLUMN>22</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>
